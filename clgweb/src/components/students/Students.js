@@ -5,7 +5,7 @@ import MaterialTable from 'material-table'
 import './styles.css'
 import '../colleges/styles.css'
 import { match } from 'assert'
-import {useParams} from 'react-router'
+import {useParams} from 'react-router-dom'
 
 
 
